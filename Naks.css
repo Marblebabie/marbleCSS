@@ -1,0 +1,63 @@
+p{
+    margin: 0px;
+}
+.Bio{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(140, 127, 255);
+    display: inline-block;
+    text-align: center;
+    
+}
+.Bio:hover{
+    background-color: lime;
+    transition: 1.5s;
+}
+.Photo{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    display: inline-block;
+    text-align: center;
+    margin-left: 195px;
+}
+.Photo:hover{
+    background-color: dodgerblue;
+    transition: 1.5s;
+}
+
+.Education{
+    height: 200px;
+    width: 200px;
+    background-color: turquoise;
+    text-align: center;
+    margin-left: 200px;
+}
+.Education:hover{
+    background-color: lightpink;
+    transition:1.5s;
+}
+.Contact{
+    height:200px ;
+    width: 200px;
+    background-color: darkmagenta;
+    display: inline-block;
+    text-align: center;
+    
+}
+.Contact:hover{
+    background-color: tomato;
+    transition: 1.5s;
+}
+.Hobbies{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    display: inline-block;
+    text-align: center;
+    margin-left: 195px;
+}
+.Hobbies:hover{
+    background-color: blue;
+    transition: 1.5s;
+}
